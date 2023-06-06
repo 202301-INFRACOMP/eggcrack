@@ -1,0 +1,9 @@
+[submodule "eggcrack-java"]
+	path = eggcrack-java
+	url = https://github.com/202301-INFRACOMP/eggcrack-java
+[submodule "eggcrack-cpp"]
+	path = eggcrack-cpp
+	url = https://github.com/202301-INFRACOMP/eggcrack-cpp
+[submodule "eggcrack-c"]
+	path = eggcrack-c
+	url = https://github.com/202301-INFRACOMP/eggcrack-c
